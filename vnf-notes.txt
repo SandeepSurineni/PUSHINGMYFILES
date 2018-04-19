@@ -1,0 +1,15 @@
+
+ Jenkins lo job -  
+
+requirement - Dir - should monitor always
+
+It should background....
+
+Filename = ...
+checksum - method..
+print
+
+java dirMonitor <Dir> &
+
+ 
+
