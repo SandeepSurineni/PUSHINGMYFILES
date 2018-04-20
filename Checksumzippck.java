@@ -9,7 +9,7 @@ public class Checksumzippck {
 		String datafile = args[0];
 		String MD5 = args[1];
 
-		String basepath = "C:\\Users\\ssurineni\\Downloads\\FINALDEMO";
+		String basepath = "C:\\Users\\ssurineni\\Downloads\\codevalidation";
 
 		File file1 = new File(basepath + datafile);
 		
